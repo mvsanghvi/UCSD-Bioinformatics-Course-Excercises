@@ -1,8 +1,7 @@
 #Return a 3' reversed complement of a DNA string
 # Input:  A DNA string Pattern
-Pattern= AAAACCCGGT
+Pattern= "AAAACCCGGT"
 # Output: The reverse complement of Pattern
-
 def ReverseComplement(Pattern):   
     # your code here
     Pattern=Reverse(Pattern)
