@@ -1,3 +1,4 @@
+#Reverse a DNA string
 # Input:  A string Pattern
 Pattern="AAAACCCGGT"
 # Output: The reverse of Pattern
