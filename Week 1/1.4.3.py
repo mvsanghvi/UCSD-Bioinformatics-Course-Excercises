@@ -1,11 +1,7 @@
-<<<<<<< HEAD
 # Reverse Complement Problem: Find the reverse complement of a DNA string.
 # Input:  A DNA string Pattern
-=======
 #Return a 3' reversed complement of a DNA string
-# Input:  A DNA string Pattern
 Pattern= "AAAACCCGGT"
->>>>>>> fa74e65d5a96ba19742f828ad465589a06515989
 # Output: The reverse complement of Pattern
 def ReverseComplement(Pattern):   
     # your code here
